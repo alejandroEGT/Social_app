@@ -1,4 +1,4 @@
-<center><img src=""></center>
+<center><img src="logo/captura.png"></center>
 
 # Red Social para dispositivos móviles
 
